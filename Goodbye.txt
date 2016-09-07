@@ -1,2 +1,6 @@
 print("Goodbye world!!")
+<<<<<<< HEAD
+=======
+print("Goodbye everybody!")
+>>>>>>> refs/heads/slave
 print("Goodbye!")
